@@ -1,4 +1,6 @@
-# nbdev template
+# IMTKU for DialEval-1
 
-Use this template to more easily create your nbdev project.
+A temporary private repository for IMTKU's system of DialEval-1, NTCIR-15.
+
+Once it is ready, IMTKU manager may create a GitHub organization `IMTKU` and migrate this to its offical repository.
 
