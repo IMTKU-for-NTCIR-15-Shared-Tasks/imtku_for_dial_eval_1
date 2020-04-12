@@ -11,7 +11,7 @@ jobs:
         architecture: 'x64'
     - name: Install the library
       run: |
-        pip install nbdev jupyter
+        pip install nbdev jupyter ipykernel~=4.8.2 ipython~=5.5.0 notebook~=5.2.0 six~=1.12.0 tornado~=4.5.3 prompt-toolkit==1.0.15 jupyter-console==5.2.0 google-colab
         pip install -e .
     - name: Read all notebooks
       run: |
